@@ -2,6 +2,8 @@
 
 **Senior Design Capstone Project**
 
+💻 [View full source code](https://github.com/khushichaturvedi-04/Senior-Design)
+
 ## Overview
 
 Sprout Sense is a plant health monitoring device developed as a senior design capstone, combining embedded hardware, IoT connectivity, and a live web dashboard. The product tracks real-time plant health metrics light, air temperature, humidity, and soil moisture and surfaces them through a subscription-free dashboard, so plant owners can understand and act on their plant's needs without guesswork.
@@ -62,6 +64,10 @@ Beyond the engineering build, the team developed a full go-to-market case valida
 ## Skills Demonstrated
 
 `Embedded C++ (Arduino/ESP32)` · `I2C Sensor Integration` · `Wi-Fi/IoT Connectivity` · `REST API Design (embedded)` · `Cloud IoT Logging (ThingSpeak)` · `JavaScript` · `Chart.js Data Visualization` · `Responsive Web Design` · `Product Development` · `Market Research & Validation` · `Cross-functional Team Collaboration`
+
+## Repository
+
+Full source — firmware and dashboard — is available in the [`Senior-Design`](https://github.com/khushichaturvedi-04/Senior-Design) repository.
 
 ## Result
 
