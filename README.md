@@ -11,3 +11,5 @@ b. [Sprout Sense – Smart Plant Monitoring System](./sprout-sense/README.md) �
 c. [Quantum Error Mitigation](./quantum-error-mitigation/README.md) — Research on post-processing techniques to correct NISQ quantum computing errors.
 
 d. [City Transportation Planner](./ece309-transportation-planner/README.md) — Graph-based shortest-path planner using Dijkstra's algorithm in C++17.
+
+e. [Parallel Programming & Computer Architecture Simulation](./parallel-computing-architecture/README.md) — OpenMP parallel programming and SST-based MESI→MOESI cache coherence protocol work.
