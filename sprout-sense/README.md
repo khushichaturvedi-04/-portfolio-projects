@@ -8,6 +8,8 @@ Sprout Sense is a plant health monitoring device developed as a senior design ca
 
 The project was developed end-to-end as a five-person, cross-functional team covering engineering, market validation, and business planning, and was presented at Design Day.
 
+📄 [View the Design Day poster (PDF)](./poster.pdf)
+
 **Team:** Sammy Van Geffen (CEO), Kyle Strickland (CDO), Dylan Beetcher (CFO), Grace Scully (CMO), Khushi Chaturvedi (COO)
 
 ## My Role
