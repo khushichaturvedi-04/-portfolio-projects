@@ -13,3 +13,5 @@ c. [Quantum Error Mitigation](./quantum-error-mitigation/README.md) — Research
 d. [City Transportation Planner](./ece309-transportation-planner/README.md) — Graph-based shortest-path planner using Dijkstra's algorithm in C++17.
 
 e. [Parallel Programming & Computer Architecture Simulation](./parallel-computing-architecture/README.md) — OpenMP parallel programming and SST-based MESI→MOESI cache coherence protocol work.
+
+f. [Olympic Success Around the World](./olympics-data-visualization/README.md) — Data visualization project on Olympic medal trends built in Tableau and R.
