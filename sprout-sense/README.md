@@ -67,7 +67,7 @@ Beyond the engineering build, the team developed a full go-to-market case valida
 
 ## Repository
 
-Full source — firmware and dashboard — is available in the [`Senior-Design`](https://github.com/khushichaturvedi-04/Senior-Design) repository.
+Full source firmware and dashboard is available in the [`Senior-Design`](https://github.com/khushichaturvedi-04/Senior-Design) repository.
 
 ## Result
 
