@@ -6,6 +6,8 @@ A collection of write-ups documenting engineering projects from coursework and p
 
 a. [ECE 306 – Autonomous Embedded Vehicle](./ece306-embedded-vehicle/README.md) - Designed and built an autonomous MSP430-based vehicle with line-following navigation, motor control, and IoT telemetry.
 
+b. [Sprout Sense – Smart Plant Monitoring System](./sprout-sense/README.md) — Senior design capstone. IoT plant health monitor with real-time dashboard.
+
 ## About
 
 I'm Khushi Chaturvedi, an Electrical and Computer Engineering student at NC State University. 
