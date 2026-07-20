@@ -19,3 +19,5 @@ f. [Olympic Success Around the World](./olympics-data-visualization/README.md) �
 g. [Exploratory Data Analysis & Statistical Modeling in R](./dsa406-statistical-analysis/README.md) — EDA, correlation, and linear regression analysis in R.
 
 h. [Applied Machine Learning: Global Internet Adoption](./dsa412-machine-learning/README.md) — K-Means clustering + Ridge regression capstone, plus semester coursework in supervised/unsupervised learning and deep learning.
+
+i. [Hyperspectral Filter Array Optimization via Genetic Algorithms](./hyperspectral-filter-optimization/README.md) — Ongoing undergraduate research, Dr. Dror Baron's Lab, NC State. GA-based spectral filter optimization for compressive hyperspectral imaging.
