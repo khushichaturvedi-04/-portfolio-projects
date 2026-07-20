@@ -59,5 +59,3 @@ A structured post-processing approach can meaningfully reduce NISQ-era quantum c
 Tannu, S., Stein, S., Wiebe, N., & Su, Y. (2022). HAMMER: Boosting fidelity via Hamming reconstruction. In *Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '22)* (pp. 123–136). ACM.
 
 Stein, S., Wiebe, N., & Lee, G. (2023). Q-BEEP: Bayesian Poisson error mitigation for quantum computing.
----
-*NC State University REU — Department of Electrical and Computer Engineering
