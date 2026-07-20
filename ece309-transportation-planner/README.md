@@ -2,6 +2,7 @@
 
 **ECE 309: Data Structures and Object-Oriented Programming for Electrical and Computer Engineers**
 ---
+📄 [View the final project report (PDF)](./report.pdf)
 
 ## Overview
 
