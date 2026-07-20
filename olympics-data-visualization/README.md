@@ -1,6 +1,6 @@
 # Olympic Success Around the World — Data Visualization Project
 
-**DSA 202: Data Visualization · North Carolina State University · Spring 2026**
+**DSA 202: Data Visualization · North Carolina State University **
 
 📄 [View the final poster (PDF)](./poster.pdf) · 📄 [View the final narrative (PDF)](./narrative.pdf) · 📊 [View the interactive Tableau dashboard](https://public.tableau.com/app/profile/khushi.chaturvedi5804/viz/OlympicSuccessAroundtheWorld/Dashboard1) · 💻 [View full source code](https://github.com/khushichaturvedi-04/DSA-202)
 
