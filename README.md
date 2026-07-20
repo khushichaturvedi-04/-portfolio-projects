@@ -16,4 +16,4 @@ e. [Parallel Programming & Computer Architecture Simulation](./parallel-computin
 
 f. [Olympic Success Around the World](./olympics-data-visualization/README.md) — Data visualization project on Olympic medal trends built in Tableau and R.
 
-g. [Exploratory Data Analysis & Statistical Modeling in R](./dsa406-statistical-analysis/README.md) — EDA, correlation, and linear regression analysis in R. ([source](https://github.com/khushichaturvedi-04/DSA-406))
+g. [Exploratory Data Analysis & Statistical Modeling in R](./dsa406-statistical-analysis/README.md) — EDA, correlation, and linear regression analysis in R.
