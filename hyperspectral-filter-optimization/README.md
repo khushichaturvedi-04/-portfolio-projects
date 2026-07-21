@@ -1,4 +1,4 @@
-# Hyperspectral Filter Array Optimization via Genetic Algorithms
+# Hyperspectral Optimization via Genetic Algorithms
 
 **Undergraduate Research — Dr. Dror Baron's Lab, North Carolina State University**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project investigates the optimization of spectral filter arrays for compressive hyperspectral imaging using genetic algorithms (GA). The goal is to identify an optimal 8×8 filter configuration — selected from a library of 10,000 real spectral filters spanning 400–700nm across 31 channels — that minimizes reconstruction error on PRISMA satellite imagery.
+This project investigates the optimization of spectral filter arrays for compressive hyperspectral imaging using genetic algorithms (GA). The goal is to identify an optimal 8×8 filter configuration selected from a library of 10,000 real spectral filters spanning 400–700nm across 31 channels that minimizes reconstruction error on PRISMA satellite imagery.
 
 ## Method
 
