@@ -23,3 +23,5 @@ h. [Applied Machine Learning: Global Internet Adoption](./dsa412-machine-learnin
 i. [Hyperspectral Filter Array Optimization via Genetic Algorithms](./hyperspectral-filter-optimization/README.md) — Ongoing undergraduate research, Dr. Dror Baron's Lab, NC State. GA-based spectral filter optimization for compressive hyperspectral imaging.
 
 j. [AR4D Measure](./ar4d-measure/README.md) — Open-source iOS AR app. 4D spatial measurement tool built in Swift, ARKit, SceneKit, and SwiftUI.
+
+k. [Level 1 High-Power Rocketry Certification](./level1-rocketry-certification/README.md) — NAR/Tripoli Level 1 certification flight, designed and simulated in OpenRocket.
